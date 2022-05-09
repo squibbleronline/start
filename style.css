@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aguafina+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+
+.raleway {
+	    font-family: 'Raleway', sans-serif;
+		font-weight: 300;
+		text-align: center;
+		color: black;
+}
+
+.mont	{
+	    font-family: 'Montserrat', sans-serif;
+		font-weight: 500;
+		text-align: center;
+		font-size: 24px;
+		color: white;
+}
+
+.agua	{
+	font-family: 'Montserrat';
+	font-size: 60px;
+	color: white;
+	letter-spacing: -1pt;
+	line-height: 36px;
+	align-content: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0px 15px 15px 0px;
+	
+}
+
+.content	{
+	font-family: "cabin";
+	font-size: 18px;	
+	line-height: 22px;
+	color: white;
+}
+
+.h1-title	{
+	font-family: "aguafina-script";
+	margin: 0;
+	padding:0 15px 15px 0;
+	color: white;
+	font-family: "aguafina-script";
+	font-size: 18px;
+	
+}
+
+.resgrid {
+	width:1000px;
+	margin: 10px 0px 0px 10px;
+	height: 1080px;
+}
